@@ -78,7 +78,6 @@ img.templo{
     font-weight: bold;
 }
 
-/* classe do p */
 .orange{
     margin: auto;
     width: 1120px;
@@ -91,7 +90,7 @@ img.templo{
     padding-bottom: 0px;
 }
 
-/* classe pixel do p*/
+
 .pixel{
     text-align: left;
     padding-bottom: 64px;
